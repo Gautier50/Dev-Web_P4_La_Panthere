@@ -650,8 +650,8 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
-    color: black!important;
+    font-size: larger;
+    color: #F3976C
 }
 
 .container {
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 20px; /*Changement taille du texte*/
 }
 
 .tight-width-whitespace {
@@ -771,7 +771,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #512510;
 }
 
 .tc-white {
@@ -779,7 +779,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #512510; /* changement couleur bouton pour contraste*/
     color: #FFFFFF!important;
 }
 
