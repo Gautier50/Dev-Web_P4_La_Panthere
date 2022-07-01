@@ -101,6 +101,7 @@ a:hover {
 
 .d-bloc {
     color: rgba(255, 255, 255, .7);
+    width: 100%;
 }
 
 .d-bloc button:hover {
@@ -165,6 +166,8 @@ a:hover {
 
 .d-bloc .panel {
     color: rgba(0, 0, 0, .5);
+    width: 851px;
+    height: 218px;
 }
 
 .d-bloc .panel button:hover {
@@ -270,17 +273,6 @@ a:hover {
 
 .voffset-lg {
     margin-top: 80px;
-}
-
-.row-no-gutters {
-    margin-right: 0;
-    margin-left: 0;
-}
-
-.row.row-no-gutters > [class^="col-"],
-.row.row-no-gutters > [class*=" col-"] {
-    padding-right: 0;
-    padding-left: 0;
 }
 
 #bloc-1-hero h1 {
@@ -651,7 +643,7 @@ label,
 a {
     font-family: "helvetica";
     font-size: larger;
-    color: #F3976C
+    color: black;
 }
 
 .container {
@@ -677,7 +669,7 @@ a {
 }
 
 p {
-    font-size: 20px; /*Changement taille du texte*/
+    font-size: 18px; /*Changement taille du texte*/
 }
 
 .tight-width-whitespace {
@@ -685,7 +677,7 @@ p {
     margin: auto auto auto auto;
 }
 
-.h1 {
+h1 {
     font-size: 20px;
     font-family: "Open Sans";
 }
@@ -707,6 +699,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    color: white;
 }
 
 h3 {

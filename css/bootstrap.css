@@ -2083,6 +2083,10 @@ pre code {
 .col-xs-9 {
     float: left
 }
+.col-sm-12 p {
+    color: white; /*Changement couleur*/
+    font-size: 16px; /*Changement taille*/
+}
 
 .col-xs-12 {
     width: 100%
@@ -7685,7 +7689,7 @@ button.close {
     background-color: #000\9;
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
-    border-radius: 10px
+    border-radius: 10px;
 }
 
 .carousel-indicators .active {
