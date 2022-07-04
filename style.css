@@ -361,6 +361,7 @@ a:hover {
         right: 20px;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
+        list-style-type: none;
     }
     .nav > li .dropdown-menu a,
     .nav > li .dropdown-menu a:hover {
