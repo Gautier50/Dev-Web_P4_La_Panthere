@@ -2092,9 +2092,16 @@ pre code {
 .col-xs-9 {
   float: left;
 }
-.col-sm-12 p {
-  color: white; /*Changement couleur*/
-  font-size: 16px; /*Changement taille*/
+.title p {
+  color: #5F5D5E;
+  font-size: 30px;
+}
+.citation p {
+  font-size: 20px;
+}
+.title2 p {
+  color: #5F5D5E;
+  font-size: 30px;
 }
 
 .col-xs-12 {
