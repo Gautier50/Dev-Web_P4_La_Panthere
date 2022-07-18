@@ -104,8 +104,8 @@ sub {
 
 img {
   border: 0;
-  width: 100%;
-  height: auto;
+  width: 150px;
+  height: 150px;
 /* amélioration résolution img */
 }
 
