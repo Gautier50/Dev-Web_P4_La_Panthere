@@ -104,9 +104,6 @@ sub {
 
 img {
   border: 0;
-  width: 150px;
-  height: 150px;
-/* amélioration résolution img */
 }
 
 svg:not(:root) {
